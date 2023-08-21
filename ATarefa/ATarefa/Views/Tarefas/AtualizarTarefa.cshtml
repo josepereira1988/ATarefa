@@ -1,0 +1,33 @@
+﻿@model Tarefa
+
+@{
+    ViewData["Title"] = "Atualizar Tarefa";
+}
+
+<div class="card">
+    <div class="card-header justify-content-between d-flex d-inline">
+        <div>
+            <h5>Tarefa Id: @Model.Id</h5>
+            <p class="card-text">Status: @Model.Status</p>
+        </div>
+
+        <p class="card-text">Data de Criação: @Model.DtCriacao</p>
+    </div>
+    <div class="card-body">
+        <form asp-action="AtualizarTarefa">
+            <div class="form-group">
+                <label for="Titulo">Título</label>
+                <input type="text" maxlength="50" class="form-control w-100" asp-for="Titulo" />
+            </div>
+            <hr />
+            <div>
+                <label>Descrição</label>
+                <textarea rows="10" class="card-text w-100" asp-for="Descricao" ></textarea>
+                <div class="card-footer d-flex justify-content-between">
+                    <a class="btn btn-outline-secondary" asp-action="Detalhe" asp-route-Id="@Model.Id">Voltar</a>
+                    <button class="btn btn-outline-success" type="submit">Update</button>
+                </div>
+            </div>
+       </form>
+    </div>
+</div>

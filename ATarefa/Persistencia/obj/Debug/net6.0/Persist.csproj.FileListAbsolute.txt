@@ -1,0 +1,17 @@
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\bin\Debug\net6.0\Persist.deps.json
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\bin\Debug\net6.0\Persist.runtimeconfig.json
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\bin\Debug\net6.0\Persist.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\bin\Debug\net6.0\Persist.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.csproj.AssemblyReference.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.AssemblyInfoInputs.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.AssemblyInfo.cs
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.csproj.CopyComplete
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\refint\Persist.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\Persist.genruntimeconfig.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Persistencia\obj\Debug\net6.0\ref\Persist.dll

@@ -1,0 +1,62 @@
+﻿@model Tarefa
+
+@{
+    ViewData["Title"] = "Detalhes da Tarefa";
+}
+
+<div class="card">
+    <div class="card-header justify-content-between d-flex d-inline">
+        <div>
+            <h5>Tarefa Id: @Model.Id</h5>
+            <p class="card-text">Status: @Model.Status</p>
+        </div>
+
+        <p class="card-text">Data de Criação: @Model.DtCriacao</p>
+    </div>
+    <div class="card-body">
+        <div class="d-flex justify-content-between">
+            <div class="d-flex d-inline ">
+                <h5 class="px-2">Titulo:</h5>
+                <imput class="card-title">@Model.Titulo</imput>
+            </div>
+            <div>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-Id="@Model.Id">Excluir</a>
+            </div>
+        </div>
+
+        <hr />
+        <label>Descrição</label>
+        <textarea rows="10" class="card-text w-100 px-2 textoarea" readonly>@Model.Descricao</textarea>
+        <div class="card-footer d-flex justify-content-between">
+            <a class="btn btn-outline-secondary" asp-action="Index">Voltar</a>
+            <a class="btn btn-outline-success" asp-action="AtualizarTarefa" asp-route-Id="@Model.Id">Editar</a>
+        </div>
+    </div>
+</div>
+<div class="py-3">
+    <div class="titulo p-3">
+        <h3>Comentários</h3>
+        <div class="px-2">
+            <a class="btn btn-outline-info" asp-action="Comantario" asp-route-Id="@Model.Id">+</a>
+        </div>
+    </div>
+</div>
+@if (Model.comentarios.Count > 0)
+{
+    @foreach (var comentario in Model.comentarios)
+    {
+        <div class="py-2">
+            <div class="card">
+                <div>
+                    Data: @comentario.DtCriacao
+                </div>
+                <textarea rows="10" class="card-text w-100 px-2 textoarea" readonly>@comentario.Comentario</textarea>
+            </div>
+        </div>
+    }
+
+}
+else
+{
+    <div class="card shadow-lg p-3"><p>Sem comentários....</p></div>
+}

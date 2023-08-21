@@ -1,0 +1,28 @@
+﻿@model List<Tarefa>
+@{
+    ViewData["Title"] = "Lista de tarefa";
+}
+<div class="cartao">
+    <div class="titulo">
+        <h1 class="px-5">Lista de Tarefas</h1>
+        <div class="col-1"><a class="btn btn-outline-info" asp-action="CriarTarefa">+</a></div>
+    </div>
+    <hr />
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Status</th>
+            <th>Título</th>
+            <th></th>
+        </tr>
+        @foreach (var tarefa in Model)
+        {
+            <tr style='cursor: pointer;'>
+                <td width="50px" onclick="location.href='@Url.Action("Detalhe", "Tarefas",new {id = tarefa.Id})'">@tarefa.Id</td>
+                <td width="200px" onclick="location.href='@Url.Action("Detalhe", "Tarefas",new {id = tarefa.Id})'">@tarefa.Status</td>
+                <td onclick="location.href='@Url.Action("Detalhe", "Tarefas",new {id = tarefa.Id})'">@tarefa.Titulo</td>
+                <td width="80px"><a class="btn btn-danger" asp-action="Delete" asp-route-Id="@tarefa.Id">Excluir</a></td>
+            </tr>
+        }
+    </table>
+</div>

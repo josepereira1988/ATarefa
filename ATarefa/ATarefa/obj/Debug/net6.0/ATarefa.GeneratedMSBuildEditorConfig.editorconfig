@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ATarefa
+build_property.RootNamespace = ATarefa
+build_property.ProjectDir = C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\ATarefa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\ATarefa
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Tarefas/AtualizarTarefa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xBdHVhbGl6YXJUYXJlZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Tarefas/Comantario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xDb21hbnRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Tarefas/CriarTarefa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xDcmlhclRhcmVmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Tarefas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Tarefas/Detalhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xEZXRhbGhlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Tarefas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Junior/Documents/MEGAsync/Particular/SuperSistema/ATarefa/ATarefa/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pgzul607wx

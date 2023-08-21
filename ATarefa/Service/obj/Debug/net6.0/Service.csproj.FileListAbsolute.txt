@@ -1,0 +1,17 @@
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Service.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Dominio.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Persist.dll
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\bin\Debug\net6.0\Persist.pdb
+C:\Users\Junior\Documents\MEGAsync\Particular\SuperSistema\ATarefa\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
